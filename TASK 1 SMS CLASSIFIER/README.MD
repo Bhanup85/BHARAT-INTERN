@@ -1,4 +1,4 @@
-📱 SMS Classifier Unveiled in 5 Aspects:
+# 📱 SMS Classifier Unveiled in 5 Aspects:
 
 🎯 Purpose & Guardian: The SMS classifier is a digital guardian, purpose-built to sift through messages, distinguishing the "spam" invaders from the "ham" messages, crafting a shield for users' messaging tranquility.
 
